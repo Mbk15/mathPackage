@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "math": {
+      "signature": "dcd4daf506026c5231417d2498fad813",
+      "file": true
+    }
+  }
+}

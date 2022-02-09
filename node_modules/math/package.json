@@ -1,0 +1,13 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Basic Arithmeic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ash-shattry",
+  "license": "ISC",
+  "private": true,
+  "yalcSig": "dcd4daf506026c5231417d2498fad813"
+}
